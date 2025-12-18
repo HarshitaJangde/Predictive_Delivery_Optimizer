@@ -23,7 +23,6 @@ st.set_page_config(page_title="Predictive Delivery Optimizer", layout="wide")
 
 st.title("🚚 Predictive Delivery Optimizer with Cost Intelligence")
 st.caption("Predict delivery delays, estimate financial impact, and recommend actions")
-st.write("Kaleido loaded successfully")
 
 
 # ============================================
