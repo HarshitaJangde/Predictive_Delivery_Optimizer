@@ -48,7 +48,7 @@ This project merges multiple datasets from the logistics ecosystem to deliver da
 1. Download the code & CSVs (OR Clone the repository):
 
 ```bash
-git clone <>
+git clone https://github.com/HarshitaJangde/Predictive_Delivery_Optimizer.git
 ```
 
 2. Create a virtual environment :
