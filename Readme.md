@@ -131,5 +131,5 @@ Ensure that all CSV files (orders.csv, delivery_performance.csv, routes_distance
 
 ## Acknowledgement
 
-Thank you to the reviewers and recruiters for taking the time to evaluate this project.
-I hope this project demonstrates both technical proficiency and business impact, and I look forward to the opportunity to contribute to innovative logistics solutions with your team in the future.
+I would like to thank all viewers for their time and interest in this project.  
+This work reflects a continuous learning journey, and every view, suggestion, or discussion helps drive further improvement.
